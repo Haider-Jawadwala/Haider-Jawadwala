@@ -17,7 +17,16 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Codeshell <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br><br>
+<a href="https://drive.google.com/file/d/1F6jaLV3wnJJCg5f7fUCQ6GUm9oyBTSVd/view?usp=sharing">
+Won 1st Prize at National Level Project Competition at Government Polytechnic.
+</a><br><br>
+<a href="https://drive.google.com/file/d/1HBquKsnXn8hRbxRtHCD8X9EbgsHPD-S7/view">
+Won 2nd Prize at National Level Project Competition at Symbiosis University Pune.
+</a><br><br>
+<a href="https://drive.google.com/file/d/1BehfhjqMDcsS2QBUr3Gf68SCzcr78I_k/view">
+Participated in Smart India Hackathon at Vidyalankar Polytechnic.
+</a><br><br>
 
 - :telescope: Currently I am Crunching Data (Studying) at KJ Somaiya Institute of Technology. 
 
