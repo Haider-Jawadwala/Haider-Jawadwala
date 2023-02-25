@@ -17,9 +17,3 @@
 </a>
  
 </div>
-
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Haider-Jawadwala&style=flat-square&color=blue" alt="Count Not Available"/>
-</div>
