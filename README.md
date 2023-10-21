@@ -59,7 +59,7 @@ Participated in Smart India Hackathon at Vidyalankar Polytechnic.
 </div>
 
 --- 
-//### :fire: My Stats:
+### :fire: My Stats:
 
-//[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Haider-Jawadwala&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+#[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Haider-Jawadwala&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
